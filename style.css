@@ -1,0 +1,109 @@
+*{margin:0;padding:0;outline:0;}
+body{font-family: 'Playfair Display', serif;;font-size:14px;color:#34495e;background:url('images/brickwall.png')repeat fixed;}
+
+.clear{overflow:hidden;}
+.headsection{background:#1289A7;border-bottom:1px solid #134D6E;}
+.title{font-family: 'Berkshire Swash', cursive;}
+/*.headleft{width:600px;float:left;margin-right:120px;}*/
+/*.logo{width:96px;float:left;}*/
+/*.logo img{width:50px;height:50px;margin-top:20px;margin-left: 20px;border: 1px solid #FD8101;}*/
+/*.headername{width:250px;float:left;margin-top: 13px;color:#ffffff;}
+.headername h1{font-size:36px;text-shadow:5px -1px 3px #57606f;}
+.headername p{}
+.headright{width:250px;float:right;margin-top:30px;}*/
+
+/*.headright input[type=text]{padding: 5px;
+width: 170px;background:1px solid #ffffff;font-size:14px;}
+.headright input[type=submit]{padding:4px;}*/
+.navsection{background:#003D5B;}
+.navbar img{margin-top: 1rem;}
+/*.mainmenu{}
+.mainmenu ul{margin:0;padding:0;list-style-type:none;}*/
+.mainmenu ul li{float:left;display:block;padding:0px 10px;}
+.mainmenu ul li a{text-decoration:none;padding:15px 20px;display:block;color:#ffffff;font-size:18px;border:1px solid #134D6E;}
+.mainmenu ul li a:hover{background:#FF8200;color:#003D5B;}
+.bannersection{}
+.banner{}
+.banner img{}
+.aboutsection{background:#1760AD;color:#ffffff;padding:3%;}
+.about{padding:5%;}
+.aboutpic img{box-shadow:6px 6px 12px #2d3436;}
+.about h2{padding-bottom:3%;font-family: 'Spirax', cursive;}
+.about button{margin-top:2%;}
+.servicesection{background:#1760AD;color:#ffffff;padding:5%;}
+.servicesection h2{padding-bottom:3%;font-family: 'Spirax', cursive;}
+.sameservice h4{padding:3% 0%;font-family: 'Spirax', cursive;}
+.sameservice p{font-size:13px;padding:2% 3%;margin-bottom:5%;}
+.sameservice img{box-shadow:6px 6px 12px #2d3436;}
+.test h6{color:#fdcb6e;}
+.testimonial h2{font-family: 'Spirax', cursive;}
+
+.blogsection{background:#ffffff;padding:1%;}
+.blog{background:#1760AD;padding:2%;margin-top:3%;}
+
+.blog h3{padding-bottom:2%;font-family: 'Spirax', cursive;}
+.blog p{color:#ffffff;font-size:12px;padding-top:2%;}
+.cap{color:#fdcb6e;font-size:10px;}
+.blog1{background:#1760AD;padding:3%;}
+.blog1 h2{font-family: 'Spirax', cursive;}
+.blog1 p{color:#ffffff;text-align:justify;}
+.blog1 img{box-shadow:6px 6px 12px #2d3436;}
+
+/*.sameservice{}
+.sameservice img{width:50px;height:50px;margin-left:68px;padding-bottom: 10px;}
+.sameservice h3{text-align:center;padding-bottom: 11px;}
+.sameservice p{margin-left: 18px;text-align: justify;}*/
+.contentsection{background:#003D5B;color:#ffffff;padding:3%;}
+.contactsection h2{font-family: 'Spirax', cursive;}
+.maincontent h5{color:#34495e;font-family: 'Spirax', cursive;}
+.maincontent p{color:#34495e;}
+/*.content{border-bottom:2px solid #134D6E;padding-bottom:10px;}
+.content h3{font-size: 20px;
+padding-bottom: 10px;padding-top:5px;}
+.content img{float:left;margin-right:15px;}
+.content p{text-align:justify;}
+.read{float:right;}
+.read a{text-decoration:none;color:#ffffff;font-size:16px;}
+.sidebar{width:300px;float:right;}
+.sidecontent{padding-top:36px;}
+.sidecontent h4{font-size:20px;padding-bottom: 10px}
+.sidecontent p{text-align:justify;}*/
+.testimonial{background:#035E93;padding:3%;color:#ffffff;}
+/*.client{width:200px;float:left;padding:33px;}*/
+.client img{box-shadow:6px 6px 12px #2d3436;}
+.client h3{}
+.client h6{font-family: 'Spirax', cursive;}
+.client p{}
+.contactsection{background:#003D5B;padding:3%;color:#ffffff;}
+.contactsection h4{font-family: 'Spirax', cursive;}
+.formbox{padding:2%;}
+.con{box-shadow:6px 6px 12px #2d3436;}
+/*.contactleft{width:500px;float:left;}
+.contactleft p{font-size:16px;padding:5px 0px;}
+.contactleft input[type=text]{width:200px;padding:5px;}
+.contactleft input[type=email]{width:200px;padding:5px;}
+.contactleft textarea{width:200px;height:100px;padding:5px;}
+.contactleft input[type=submit]{padding:5px;}*/
+
+/*.address h3{font-size:20px;padding-bottom:10px;}
+.address p{font-size:18px;}*/
+/*.social{padding-top:40px;}*/
+
+
+.social a{font-size:20px;padding:5px;color:#ffffff;}
+.footersection{background:#1289A7;color:#ffffff;padding:1%;}
+/*.footermenu{width:500px;float:left;}
+.footermenu ul{margin:0;padding:0;list-style-type:none;}*/
+.foot ul li{border-right:1px solid #134D6E;}
+.foot ul li a{color:#ffffff;font-size:16px;}
+.foot ul li a:hover{}
+.scroll_top{background:url('images/scroll_img.png')no-repeat scroll 0 0;bottom:10px;right:15px;width:50px;height:49px;position:fixed;cursor:pointer;}
+
+
+
+
+
+
+
+
+
